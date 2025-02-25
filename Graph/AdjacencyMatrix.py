@@ -11,7 +11,7 @@ from Stacks.StackUsingLinkedList import Stack
 
 # Importing GraphType Enum to specify whether the graph is directed or undirected
 
-
+#Adjacency Matrix
 # Adding current directory to system path to resolve module imports
 sys.path.append('.')
 
